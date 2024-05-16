@@ -1,6 +1,5 @@
-# Image-to-Hazard: In-depth Context-Aware Multimodal for Construction Site Hazards Identification
-The demo results of the paper "_Image-to-Hazard: In-depth Context-Aware Multimodal for Construction Site Hazards Identification_" are shown in this repository. The full end-to-end code will be released after the paper is accepted.
-Authors: Dai Quoc Tran, Yuntae Jeon, JinYeong Bak, Gichun Cha, Minsoo Park and Seunghee Park*.
+# Image-to-Hazard: GPT-based Logic Reasoning for Hazard Identification in Construction Site using CCTV Data
+This paper is accepted by the **41st  International Symposium on Automation and Robotics in Construction (ISARC)**, Lille, France, June 3 - 7 , 2024
 ## Proposed approach
 ![image](figures/proposed_approach.png)
 ## Demo 
